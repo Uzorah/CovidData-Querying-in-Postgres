@@ -7,8 +7,8 @@ This dataset was downloaded from [Our World In Data](https://ourworldindata.org/
 2. Undo the delete in the original dataset and delete columns E-Z. Save as `covidvaccinations`.
 Import both datasets into the RDBMs
 ## Queried With
-@postgresql
+[PostgreSQL](https://www.postgresql.org/)
 ## Author
-Uzordinma Ahanotu - @Uzorah
+Uzordinma Ahanotu - [Uzor](https://github.com/Uzorah)
 ## License
 This project is not licensed.
